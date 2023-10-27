@@ -28,7 +28,7 @@ class ChildOfDerived extends Derived1{
 	}
 }
 
-public class CWH_46_constructor_in_inheritance {
+public class ConstructorInInheritance {
 	public static void main(String[] args) {
 		//Base1 b = new Base1();
 		//Derived1 d = new Derived1();

@@ -37,7 +37,7 @@ class Dog extends Animal{  //Sub Class or child class
 	//set get name or age are accessible from animal class by dog class object 
 }
 
-public class CWH_Inheritance {
+public class InheritanceTwo {
 
 	public static void main(String[] args) {
 		Dog d = new Dog();

@@ -11,7 +11,7 @@ class Base{
 		this.x = x;
 	}
 	public Base() {
-		System.out.println("I am a constructer");
+		System.out.println("I am a constructer of base class");
 	}
 }
 
@@ -27,7 +27,7 @@ class Derived extends Base{
 	}
 }
 
-public class cwh_45_inheritance {
+public class Inheritance {
 	public static void main(String[] args) {
 		//creating an object of base class
 		/*Base b = new Base();
